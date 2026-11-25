@@ -44,4 +44,4 @@ A beginner-level Data Analytics and Machine Learning project that predicts house
 - `visualizations/` – Generated graphs
 
 ## Author
-Aditya
+Anup Y R
